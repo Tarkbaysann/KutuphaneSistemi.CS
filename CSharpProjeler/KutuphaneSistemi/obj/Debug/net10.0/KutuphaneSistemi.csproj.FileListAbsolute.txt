@@ -1,0 +1,14 @@
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\bin\Debug\net10.0\KutuphaneSistemi.exe
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\bin\Debug\net10.0\KutuphaneSistemi.deps.json
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\bin\Debug\net10.0\KutuphaneSistemi.runtimeconfig.json
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\bin\Debug\net10.0\KutuphaneSistemi.dll
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\bin\Debug\net10.0\KutuphaneSistemi.pdb
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\KutuphaneSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\KutuphaneSistemi.AssemblyInfoInputs.cache
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\KutuphaneSistemi.AssemblyInfo.cs
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\KutuphaneSistemi.csproj.CoreCompileInputs.cache
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\KutuphaneSistemi.dll
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\refint\KutuphaneSistemi.dll
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\KutuphaneSistemi.pdb
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\KutuphaneSistemi.genruntimeconfig.cache
+C:\Users\TARIK BAYSAN\Desktop\CSharpProjeler\KutuphaneSistemi\obj\Debug\net10.0\ref\KutuphaneSistemi.dll
